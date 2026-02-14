@@ -3,10 +3,6 @@
 
 #### Authors : Srikanth Babu Mandru
 
-#### *Proposed as "Quantiphi Project"*
-
-### New update on project: Modified the code to TensorFlow 2.x version compatible and other APIs. Please, look at file starting with "TF2_" and make respective changes to loss function in order to work with different losses. Also, the cross-platform mobile application for this project is included as separate repository @[Application link]( https://github.com/srikanthmandru/TFLite-Flutter-Super-Resolution-App ). Working on multiple ideas and code for that will not be available here until I publish a paper. (Please, contact me for details on research work!!!)
-
 ## Summary 
 
 Super-resolution (SR) of images refers to the process of generating or reconstructing the high- resolution (HR) images from low-resolution images (LR). This project mainly focuses on dealing with this problem of super-resolution using the generative adversarial network, named SRGAN, a deep learning framework. In this project, SRGAN was trained and evaluated using 'DIV2K', ‘MS-COCO’ and ‘VID4’ [6] which are the popular datasets for image resolution tasks.
